@@ -20,9 +20,9 @@ GDP: 100 million.
 |苏州|<http://tjj.suzhou.gov.cn/sztjj/tjnj/nav_list.shtml>|
 |南通|<http://tjj.nantong.gov.cn/ntstj/tjnj/tjnj.html>|
 |盐城|<http://tjj.yancheng.gov.cn/col/col1779/>|
-|扬州|<http://www.yangzhou.gov.cn/cnyzfront/newxxgk/bmfdgklist.jsp?zjclassid=b8c63c3a09294ed7bab86e3d990210fa&bmcode=113210000144066699>|
+|扬州|<https://tjj.yangzhou.gov.cn/tjnj/index.html>|
 |镇江|<http://tjj.zhenjiang.gov.cn/tjj/tjnj1/xxgk_list.shtml>|
-|泰州|-|
+|泰州|<https://tjj.taizhou.gov.cn/data/>|
 |杭州|<http://www.hangzhou.gov.cn/col/col805867/>|
 |宁波|<http://tjj.ningbo.gov.cn/col/col1229042824/index.html>|
 |嘉兴|<http://tjj.jiaxing.gov.cn/col/col1512382/index.html>|
@@ -34,8 +34,8 @@ GDP: 100 million.
 |合肥|<http://tjj.hefei.gov.cn/tjnj/index.html>|
 |芜湖|<https://tjj.wuhu.gov.cn/zhsj/tjnj/>|
 |马鞍山|<http://tjj.mas.gov.cn/tjsj/ndsj/index.html>|
-|铜陵|<https://www.tl.gov.cn/sjtl/tjnj/>|
+|铜陵|<https://www.tl.gov.cn/tlsrmzf/tjnj/pc/list.html>|
 |安庆|<http://tjj.anqing.gov.cn/tjsj/tjnj/index.html>|
 |滁州|<http://tjj.chuzhou.gov.cn/ztzl/tjsj/index.html>|
-|池州|<http://sjcz.chizhou.gov.cn/tjnj/index.htm>|
+|池州|<https://file.chizhou.gov.cn/tjnj/>|
 |宣城|<http://tjj.xuancheng.gov.cn/>|
