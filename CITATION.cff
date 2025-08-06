@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: If you use this dataset, please cite it using these metadata.
+title: longavailable/ydm-population-gdp-db
+abstract: Population and gdp for cities in the Yangtze Delta Megalopolis.
+authors:
+  - family-names: Liu
+    given-names: Xiaolong
+    orcid: https://orcid.org/0000-0002-6603-986X
+type: dataset
+version: 0.1.2023
+date-released: 2025-08-06
+doi: 10.5281/zenodo.4059316
+license: MIT
+repository-code: https://github.com/longavailable/ydm-population-gdp-db
