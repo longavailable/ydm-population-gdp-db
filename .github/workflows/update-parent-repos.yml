@@ -21,4 +21,4 @@ jobs:
           -H "Accept: application/vnd.github.v3+json" \
           -H "Authorization: token ${{ secrets.YDM_TOKEN }}" \
           --data '{"event_type": "update-submodules"}' \
-          https://api.github.com/repos/longavailable/ydm-pop-gdp-analysis/dispatches
+          https://api.github.com/repos/longavailable/ydm-population-gdp-analysis/dispatches
